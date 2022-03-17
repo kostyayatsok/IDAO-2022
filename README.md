@@ -1,6 +1,6 @@
 # IDAO-2022
 
-[IDAO 2022](https://idao.world/) solution by team182 ([@kostyayatsok](https://github.com/kostyayatsok), [@isaf27](https://github.com/isaf27)).
+[IDAO 2022](https://idao.world/) solution by team test182 ([@kostyayatsok](https://github.com/kostyayatsok), [@isaf27](https://github.com/isaf27)).
 
 We've trained [ALIGNN](https://github.com/usnistgov/alignn) model with default parameters for 200 epochs and got 0,912 public / 0,909 private score. Training took about 16 hours using Colab Pro.
 
